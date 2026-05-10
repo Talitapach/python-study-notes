@@ -1,6 +1,5 @@
 """
-Lista 3 - Introdução à Programação
-Centro de Informática - UFPE
+Lista 3 - Laços de Repetição
  
 Este arquivo contém as soluções para os exercícios da Lista 3.
 Cada questão está separada em uma função própria.
